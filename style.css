@@ -1,0 +1,47 @@
+/* Pleasure body background */
+body {
+    background: white;
+}
+
+/* Remove icons from the left menu */
+#side_bar .left_icon {
+    display: none;
+}
+#side_bar .left_label {
+    padding-left: 10px;
+}
+
+/* Traditional word in the left menu */
+#l_nwsf > a > span > .inl_bl:before,
+#l_msg > a > span > .inl_bl:before,
+#l_fr > a > span > .inl_bl:before,
+#l_gr > a > span > .inl_bl:before,
+#l_ph > a > span > .inl_bl:before,
+#l_aud > a > span > .inl_bl:before,
+#l_vid > a > span > .inl_bl:before {
+    content: "Мои ";
+}
+
+/* Contrasty color of unread messages */
+.nim-dialog_unread {
+    background: #dae1e8 !important;
+}
+
+/* News wight */
+.wall_wrap, .feed_post_field_wrap, #feed_recommends {
+ 	width: 600px;   
+}
+
+.narrow_column_wrap {
+    margin-right: -60px;
+}
+
+/* Opacity for the right menu in news */
+.narrow_column_wrap .fixed {
+    opacity: 0.4;
+    transition: opacity 0.3s;
+}
+
+.narrow_column_wrap .fixed:hover {
+    opacity: 1;
+}

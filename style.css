@@ -27,6 +27,11 @@ body {
     background: #dae1e8 !important;
 }
 
+/* Contrasty color of newspost border */
+.feed_row > div {
+    border-top: 2px solid #dae1e8;
+}
+
 /* News wight */
 .wall_wrap, .feed_post_field_wrap, #feed_recommends {
     width: 600px;   

@@ -45,3 +45,51 @@ body {
 .narrow_column_wrap .fixed:hover {
     opacity: 1;
 }
+
+/* Photos */
+
+#layer {
+ 	margin-top: 100px !important;   
+}
+
+.pv_left_wrap {
+ 	float: none !important;
+}
+
+.pv_img_area_wrap a {
+    width: auto !important;
+}
+
+.pv_cont .pv_close_btn {
+ 	top: 35px !important;
+    right: 35px !important;   
+}
+
+/* Photos comments */
+
+#pv_narrow {
+ 	width: 100% !important;
+}
+
+#pv_narrow > div.ui_scroll_overflow {
+ 	width: 90%;
+    margin: 0 auto;   
+}
+
+.pv_narrow_column_wrap {
+    width: 100%;  
+}
+
+#pv_reply_form_wrap {
+ 	width: 100%;   
+    margin-bottom: 20px;
+}
+
+#pv_reply_form {
+ 	width: 750px;
+    margin-left: 70px;  
+}
+
+#pv_reply_form:not(.reply_box_open) > .reply_box {
+    border-bottom: 1px solid #e7e8ec;
+}

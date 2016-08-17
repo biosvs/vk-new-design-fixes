@@ -29,7 +29,7 @@ body {
 
 /* News wight */
 .wall_wrap, .feed_post_field_wrap, #feed_recommends {
- 	width: 600px;   
+    width: 600px;   
 }
 
 .narrow_column_wrap {
@@ -49,11 +49,11 @@ body {
 /* Photos */
 
 #layer {
- 	margin-top: 100px !important;   
+    margin-top: 100px !important;   
 }
 
 .pv_left_wrap {
- 	float: none !important;
+    float: none !important;
 }
 
 .pv_img_area_wrap a {
@@ -61,18 +61,18 @@ body {
 }
 
 .pv_cont .pv_close_btn {
- 	top: 35px !important;
+    top: 35px !important;
     right: 35px !important;   
 }
 
 /* Photos comments */
 
 #pv_narrow {
- 	width: 100% !important;
+    width: 100% !important;
 }
 
 #pv_narrow > div.ui_scroll_overflow {
- 	width: 90%;
+    width: 90%;
     margin: 0 auto;   
 }
 
@@ -81,12 +81,12 @@ body {
 }
 
 #pv_reply_form_wrap {
- 	width: 100%;   
+    width: 100%;   
     margin-bottom: 20px;
 }
 
 #pv_reply_form {
- 	width: 750px;
+    width: 750px;
     margin-left: 70px;  
 }
 

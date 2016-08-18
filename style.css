@@ -55,8 +55,7 @@ body {
     opacity: 1;
 }
 
-/* Photos */
-
+/* Photos (position) */
 #layer {
     margin-top: 100px !important;   
 }
@@ -74,8 +73,7 @@ body {
     right: 35px !important;   
 }
 
-/* Photos comments */
-
+/* Photos comments (position) */
 #pv_narrow {
     width: 100% !important;
 }
@@ -102,3 +100,22 @@ body {
 #pv_reply_form:not(.reply_box_open) > .reply_box {
     border-bottom: 1px solid #e7e8ec;
 }
+
+/* Photos (background) */
+.pv_img_area_wrap {
+    background: white;
+}
+
+.pv_bottom_info {
+    background: #e7e8ec;
+}
+
+.pv_album_name a,
+.pv_counter,
+.pv_cont .pv_bottom_actions > .pv_actions_more,
+.pv_cont .pv_bottom_actions > a,
+.pv_cont .pv_bottom_actions > span {
+    color: black;
+    opacity: 0.6;
+}
+

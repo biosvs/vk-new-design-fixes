@@ -27,8 +27,8 @@ body {
     background: #dae1e8 !important;
 }
 
-/* Contrasty color of newspost border */
-.feed_row .page_block {
+/* Contrasty color of post border */
+.feed_row .page_block, #page_wall_posts .page_block {
     border-top: 2px solid #dae1e8;
 }
 

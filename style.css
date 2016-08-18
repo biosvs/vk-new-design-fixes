@@ -28,7 +28,7 @@ body {
 }
 
 /* Contrasty color of newspost border */
-.feed_row > div {
+.feed_row .page_block {
     border-top: 2px solid #dae1e8;
 }
 

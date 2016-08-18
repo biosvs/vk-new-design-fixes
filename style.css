@@ -3,6 +3,15 @@ body {
     background: white;
 }
 
+/* Header now not fixed */
+#page_layout {
+    position: static;
+}
+
+#page_header_cont {
+    position: absolute;
+}
+
 /* Remove icons from the left menu */
 #side_bar .left_icon {
     display: none;

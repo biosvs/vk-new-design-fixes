@@ -37,6 +37,10 @@ body {
     width: 600px;   
 }
 
+#feed_new_posts {
+    width: 570px;
+}
+
 .narrow_column_wrap {
     margin-right: -60px;
 }

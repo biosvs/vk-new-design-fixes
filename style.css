@@ -4,11 +4,11 @@ body {
 }
 
 /* Header now not fixed */
-#page_layout {
+body:not(.body_im) #page_layout {
     position: static;
 }
 
-#page_header_cont {
+body:not(.body_im) #page_header_cont {
     position: absolute;
 }
 

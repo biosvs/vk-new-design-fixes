@@ -128,3 +128,7 @@ body:not(.body_im) #page_header_cont {
     opacity: 0.6;
 }
 
+/* Photos list (years delimiter) */
+.photos_period_delimiter_fixed {
+    margin: 0 0 0 -20px;
+}

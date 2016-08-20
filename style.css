@@ -132,3 +132,8 @@ body:not(.body_im) #page_header_cont {
 .photos_period_delimiter_fixed {
     margin: 0 0 0 -20px;
 }
+
+/* Audio header */
+.audio_rows_header.fixed {
+    top: 0 !important;
+}

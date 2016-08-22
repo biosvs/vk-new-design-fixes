@@ -21,7 +21,6 @@ body:not(.body_im) #page_header_cont {
 }
 
 /* Traditional word in the left menu */
-#l_nwsf > a > span > .inl_bl:before,
 #l_msg > a > span > .inl_bl:before,
 #l_fr > a > span > .inl_bl:before,
 #l_gr > a > span > .inl_bl:before,

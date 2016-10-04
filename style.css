@@ -136,3 +136,8 @@ body:not(.body_im) #page_header_cont {
 .audio_rows_header.fixed {
     top: 0 !important;
 }
+
+/* Search fields */
+.ui_search.ui_search_fixed {
+	top: 0 !important;
+}

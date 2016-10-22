@@ -146,3 +146,16 @@ body:not(.body_im) #page_header_cont {
 .ui_search.ui_search_fixed {
 	top: 0 !important;
 }
+
+/* "Up" sidebar */
+#stl_side {
+	width: 0 !important;
+}
+
+#stl_text {
+	margin-top: -25px;
+}
+
+#stl_left .back {
+	margin-top: -10px;
+}

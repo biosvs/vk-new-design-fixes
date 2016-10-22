@@ -35,6 +35,11 @@ body:not(.body_im) #page_header_cont {
     background: #dae1e8 !important;
 }
 
+/* Output unread messages */
+.nim-dialog.nim-dialog_classic.nim-dialog_unread-out {
+	background: #f0f2f5 !important;
+}
+
 /* Contrasty color of post border */
 .feed_row .page_block, #page_wall_posts .page_block {
     border-top: 2px solid #dae1e8;

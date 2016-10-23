@@ -40,6 +40,10 @@ body:not(.body_im) #page_header_cont {
 	background: #f0f2f5 !important;
 }
 
+.nim-dialog.nim-dialog_classic.nim-dialog_unread-out:hover {
+	background: #e9edf2 !important;
+}
+
 /* Contrasty color of post border */
 .feed_row .page_block, #page_wall_posts .page_block {
     border-top: 2px solid #dae1e8;

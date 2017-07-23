@@ -142,8 +142,8 @@ body:not(.body_im) #page_header_cont {
 }
 
 /* Audio header */
-.audio_rows_header.fixed {
-    top: 0 !important;
+.audio_page_player_fixed_shown {
+    margin-top: -42px !important;
 }
 
 /* Search fields */

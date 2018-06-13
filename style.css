@@ -50,7 +50,7 @@ body:not(.body_im) #page_header_cont {
 }
 
 /* News wight */
-.wall_wrap, .feed_post_field_wrap, #feed_recommends {
+.wall_wrap, .feed_post_field_wrap, .stories_feed_wrap, #feed_recommends {
     width: 600px;   
 }
 
@@ -142,8 +142,8 @@ body:not(.body_im) #page_header_cont {
 }
 
 /* Audio header */
-.audio_page_player_fixed_shown {
-    margin-top: -42px !important;
+.audio_rows_header.fixed {
+    top: 0 !important;
 }
 
 /* Search fields */
